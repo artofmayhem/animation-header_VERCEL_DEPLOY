@@ -43,7 +43,7 @@ function App() {
                 </group>
                 <SpinningMesh position={[0, 0, 0]} color={'#222'} args={[3, 2, 1]} speed={6}/>
                 <SpinningMesh position={[7, 0, -2]} color={'#A00'} args={[2, 2, 3]} speed={3} />
-                <SpinningMesh position={[7, -3, -7]} color={'lightblue'} args={[3, 3, 5]} speed={8}/>
+                <SpinningMesh position={[7, -3, -7]} color={'#O200A4'} args={[3, 3, 5]} speed={8}/>
                 <SpinningMeshSphere position={[15, -2, -5]} color={'yellow'} args={[2, 30]} speed={6} factor={1}/>
                 <SpinningMesh position={[-5, -2, -7]} color={'#AAA'} args={[3, 3, 5]} speed={1}/>
                 <SpinningMeshSphere
